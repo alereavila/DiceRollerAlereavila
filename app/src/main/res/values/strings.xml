@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="roll_label">Gira los dados</string>
+    <string name="textoBienvenida">Hello World!</string>
+    <string name="text_button2">sumará</string>
+    <string name="pruebaString" />
+    <string name="gira_el_dado">Numero de 1 a 100</string>
+</resources>
